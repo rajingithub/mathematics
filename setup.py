@@ -11,7 +11,7 @@ setuptools.setup(
     description='Testing installation of Package',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/mike-huls/toolbox',
+    url='https://github.com/rajingithub/mathematics',
     license='MIT',
     packages=['mathematics'],
     install_requires=['requests'],
